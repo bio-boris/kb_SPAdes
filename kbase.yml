@@ -1,5 +1,5 @@
 module-name:
-    kb_SPAdes
+    kb_SPAdes_SecretVersion
 
 module-description:
     SPAdes wrapper - http://cab.spbu.ru/software/spades/ - Running SPAdes 3.12.0
